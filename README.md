@@ -17,5 +17,3 @@ public static void main(String[] args)
 >   >+ #### 부서 : `AI영상플랫폼팀`
 >   >+ #### 소속학과 : `컴퓨터공학부`
 > ##
-
-# githubtutorial
